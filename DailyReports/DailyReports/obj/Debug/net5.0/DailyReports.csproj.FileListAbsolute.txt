@@ -1,0 +1,16 @@
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\bin\Debug\net5.0\DailyReports.exe
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\bin\Debug\net5.0\DailyReports.deps.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\bin\Debug\net5.0\DailyReports.runtimeconfig.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\bin\Debug\net5.0\DailyReports.runtimeconfig.dev.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\bin\Debug\net5.0\DailyReports.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\bin\Debug\net5.0\ref\DailyReports.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\bin\Debug\net5.0\DailyReports.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.csproj.AssemblyReference.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.AssemblyInfoInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.AssemblyInfo.cs
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.csproj.CoreCompileInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\ref\DailyReports.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\DailyReports\DailyReports\obj\Debug\net5.0\DailyReports.genruntimeconfig.cache
