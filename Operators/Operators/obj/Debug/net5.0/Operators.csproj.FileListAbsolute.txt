@@ -1,0 +1,15 @@
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\bin\Debug\net5.0\Operators.exe
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\bin\Debug\net5.0\Operators.deps.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\bin\Debug\net5.0\Operators.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\bin\Debug\net5.0\ref\Operators.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\bin\Debug\net5.0\Operators.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\Operators.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\ref\Operators.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\Operators.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Operators\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
