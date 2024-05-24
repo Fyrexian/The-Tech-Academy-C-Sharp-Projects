@@ -1,0 +1,16 @@
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\bin\Debug\net5.0\MATH AND COMPARISON.exe
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\bin\Debug\net5.0\MATH AND COMPARISON.deps.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\bin\Debug\net5.0\MATH AND COMPARISON.runtimeconfig.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\bin\Debug\net5.0\MATH AND COMPARISON.runtimeconfig.dev.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\bin\Debug\net5.0\MATH AND COMPARISON.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\bin\Debug\net5.0\ref\MATH AND COMPARISON.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\bin\Debug\net5.0\MATH AND COMPARISON.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.csproj.AssemblyReference.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.AssemblyInfoInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.AssemblyInfo.cs
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.csproj.CoreCompileInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\ref\MATH AND COMPARISON.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\MATH AND COMPARISON\MATH AND COMPARISON\obj\Debug\net5.0\MATH AND COMPARISON.genruntimeconfig.cache
