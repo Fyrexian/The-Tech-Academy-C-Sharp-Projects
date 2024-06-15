@@ -1,0 +1,15 @@
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\bin\Debug\net8.0\ArraryProject.exe
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\bin\Debug\net8.0\ArraryProject.deps.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\bin\Debug\net8.0\ArraryProject.runtimeconfig.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\bin\Debug\net8.0\ArraryProject.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\bin\Debug\net8.0\ArraryProject.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.AssemblyInfoInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.AssemblyInfo.cs
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.csproj.CoreCompileInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.sourcelink.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\refint\ArraryProject.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ArraryProject.genruntimeconfig.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array\ArraryProject\obj\Debug\net8.0\ref\ArraryProject.dll
