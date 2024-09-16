@@ -1,0 +1,15 @@
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.AssemblyInfoInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.AssemblyInfo.cs
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.csproj.CoreCompileInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.sourcelink.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.exe
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.deps.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.runtimeconfig.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\TwentyOne.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\refint\TwentyOne.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.genruntimeconfig.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\ref\TwentyOne.dll
