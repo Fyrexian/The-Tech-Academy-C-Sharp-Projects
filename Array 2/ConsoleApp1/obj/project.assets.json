@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Console App 1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Array 2\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Console App 1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Array 2\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\fyrex\\.nuget\\packages\\",
-      "outputPath": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Console App 1\\ConsoleApp1\\obj\\",
+      "outputPath": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Array 2\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

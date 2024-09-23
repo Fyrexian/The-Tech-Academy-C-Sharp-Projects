@@ -13,3 +13,18 @@ F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Console App 1\ConsoleApp1\obj\
 F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Console App 1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Console App 1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Console App 1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+F:\Tech-academy\The-Tech-Academy-C-Sharp-Projects\Array 2\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

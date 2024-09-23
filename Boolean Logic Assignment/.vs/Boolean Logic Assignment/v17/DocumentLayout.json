@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Boolean Logic Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1F72F7-9D0F-4E11-9BBB-98760CFA8E18}|Boolean Logic Assignment\\Boolean Logic Assignment.csproj|f:\\tech-academy\\the-tech-academy-c-sharp-projects\\boolean logic assignment\\boolean logic assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1F72F7-9D0F-4E11-9BBB-98760CFA8E18}|Boolean Logic Assignment\\Boolean Logic Assignment.csproj|solutionrelative:boolean logic assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Boolean Logic Assignment\\Boolean Logic Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Boolean Logic Assignment\\Program.cs",
+              "ToolTip": "F:\\Tech-academy\\The-Tech-Academy-C-Sharp-Projects\\Boolean Logic Assignment\\Boolean Logic Assignment\\Program.cs",
+              "RelativeToolTip": "Boolean Logic Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:26:08.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

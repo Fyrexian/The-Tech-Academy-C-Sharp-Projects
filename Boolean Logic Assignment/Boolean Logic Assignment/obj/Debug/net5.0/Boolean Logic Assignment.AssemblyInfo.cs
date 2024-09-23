@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Boolean Logic Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d288db15bbb40b56ec261b11b04535ee0aa27d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Boolean Logic Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Boolean Logic Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
